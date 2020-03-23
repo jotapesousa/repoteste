@@ -1,1 +1,2 @@
 novo arquivo02
+insercao no arquivo 02
